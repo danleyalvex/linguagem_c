@@ -32,3 +32,18 @@ Efetuar a leitura de um número inteiro e apresentar o resultado do quadrado des
 10
 
 Efetuar a leitura de um número inteiro e imprimir o resto da divisão (%) deste número por 2.
+
+#
+11. Ler um número inteiro e imprimir seu sucessor e seu antecessor.
+
+#
+
+12. Ler três números inteiros e imprimir a média.
+
+#
+
+13. Escreva um programa que calcule e mostre o valor da conversão em dólar de um valor lido em real. O programa deverá ler o valor da cotação do dólar e a quantidade de reais.
+#
+14.Ler um valor e imprimir esse valor com reajuste de 10%.
+#
+15. Escreva um programa para ler o salário mensal de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.
