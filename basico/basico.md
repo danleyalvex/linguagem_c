@@ -47,3 +47,15 @@ Efetuar a leitura de um número inteiro e imprimir o resto da divisão (%) deste
 14.Ler um valor e imprimir esse valor com reajuste de 10%.
 #
 15. Escreva um programa para ler o salário mensal de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.
+#
+16. Calcular o salário líquido de uma pessoa. São fornecidos: o valor por hora, o número de horas trabalhadas e o % de desconto do INSS.
+#
+17. Ler o preço de um produto e calcular o novo preço com desconto de 9%.
+#
+18. Determinar o consumo médio de um automóvel através da fórmula: Consumo Médio = Distância / Litros de Combustível consumido.
+#
+19. Uma revendedora de carros paga aos seus vendedores um salário mensal fixo de R$ 800,00 mais uma comissão de R$ 300,00 por carro vendido. Faça um programa que leia a quantidade de carros vendidos pelo funcionário, calcule e mostre o seu salário total.
+#
+20. Escreva um programa para ler o número de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
+#
+21. Dado um número inteiro de 3 algarismos, inverter a ordem de seus algarismos. Os três algarismos do número dado são diferentes de zero. Utilize os operadores / e %.
