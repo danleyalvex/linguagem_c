@@ -59,3 +59,18 @@ Efetuar a leitura de um número inteiro e imprimir o resto da divisão (%) deste
 20. Escreva um programa para ler o número de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
 #
 21. Dado um número inteiro de 3 algarismos, inverter a ordem de seus algarismos. Os três algarismos do número dado são diferentes de zero. Utilize os operadores / e %.
+#
+22.Efetuar a leitura de um número inteiro longo (long) que representa um tempo em segundos e convertê-lo para dias, horas, minutos e segundos.
+#
+23. 
+Ler dois valores para as variáveis A e B, efetuar a troca dos valores de forma que a variável A passe a possuir o valor da variável B e que a variável B passe a possuir o valor da variável A. Apresentar os valores trocados.
+#
+24.
+Efetuar a leitura de um número inteiro e apresentar a raiz quadrada deste valor (utilizar a função sqrt).
+#
+25.Faça um programa que leia um valor de conta de restaurante, representando o gasto
+realizado pelo cliente e imprimir o valor total a ser pago, considerando que o
+restaurante cobra 10% de taxa de serviço do garçom.
+#
+26.Entrar com o raio de um círculo, calcular e imprimir seu perímetro e sua área.
+OBS: P = 2 * pi * raio e A =  * raio * raio. Use pi = 3.14.
