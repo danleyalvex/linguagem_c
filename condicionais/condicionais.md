@@ -27,3 +27,30 @@ Efetuar a leitura de três valores inteiros e apresentar o valor do meio.
 #
 11.	
 Efetuar a leitura de três números inteiros e apresentar o maior e o menor valor.
+#
+12. Efetuar a leitura de quatro números inteiros e apresentar o maior valor.
+#
+13. Construa um algoritmo que leia três valores inteiros e os coloque em ordem crescente.
+#
+14. Tendo como dados de entrada a altura (em metros) e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+    para homens: (72.7 * h) - 58;
+    para mulheres: (62.1 * h) - 44.7.
+#
+15. Uma faculdade classifica as notas dos alunos conforme a seguinte tabela:
+
+Nota
+Classificação
+9,0 a 10
+superior
+7,0 a 8,9
+médio superior
+5, 0 a 6,9
+médio
+3,0 a 4,9
+médio inferior
+0,1 a 2,9
+inferior
+0
+sem rendimento
+
+Faça um programa que lê a nota de um aluno e informa a sua classificação.
