@@ -5,3 +5,6 @@
 
 
 [Lista de Exercicios #1](http://acesso.materdei.edu.br/omero/C/Exercicios.htm "exericios com gabarito")
+
+
+Em atualização...
